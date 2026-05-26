@@ -1,4 +1,3 @@
 build/
 .vscode/
 .continue/
-third_party/SDL3/.git/
